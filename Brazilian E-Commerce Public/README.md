@@ -73,7 +73,7 @@ ORDER BY
 **Full query:** [Brazilian E-Commerce.sql](https://github.com/Watcharapollll/Data-Anlyst-Portfolio/blob/main/Brazilian%20E-Commerce%20Public/Query%20Brazil%20E-Cmerce.sql) 
 
 
-## Dashboard, Business Answers, and Solutions
+## Dashboard and Business Answers
 The interactive dashboard answers the business questions and provides the following insights:
 <img src="https://github.com/Watcharapollll/Data-Anlyst-Portfolio/blob/main/Brazilian%20E-Commerce%20Public/Dashboard%20Brazil%20E-Comerce.jpg" alt="image" width="60%" height="auto">
 
