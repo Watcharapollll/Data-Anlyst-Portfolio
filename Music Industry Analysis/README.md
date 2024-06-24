@@ -26,6 +26,24 @@ This project aims to enhance my data analytics skills by analyzing a music datas
 - Top Countries by Transaction: Assessed based on the number of transactions per country.
 - Total Sales Over Year by Quarter: Examined to recommend the best timing for the festival.
 
+## Query
+SQL queries retrieve data formatted for visualization in Power BI.
+```
+--Use in visualize Top country by transaction
+SELECT top 10 
+    c.country AS country, 
+    COUNT(i.invoice_id) AS transaction_count
+FROM 
+    invoice i
+LEFT JOIN 
+    customer c ON i.customer_id = c.customer_id
+GROUP BY 
+    c.country
+ORDER BY 
+    transaction_count DESC;
+```
+[Full Query](https://github.com/Watcharapollll/Data-Anlyst-Portfolio/blob/main/Music%20Industry%20Analysis/Music%20Query.sql)
+
 ## Dashboard, Business Answer, and Solution
 <img src="https://github.com/Watcharapollll/Data-Anlyst-Portfolio/blob/main/Music%20Industry%20Analysis/Dashboard%20Music.jpg" alt="image" width="60%" height="auto">
 Dashboard Insights:
