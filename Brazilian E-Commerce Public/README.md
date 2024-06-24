@@ -1,4 +1,4 @@
-# Brazilian E-Commerce Dashboard Report
+# Brazilian E-Commerce 
 ## Tools
 - SQL (BigQuery)
 - Google Looker Studio
