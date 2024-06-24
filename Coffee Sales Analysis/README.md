@@ -18,7 +18,8 @@ This project utilized Excel functionalities to create a data analysis dashboard 
 - What are the best-selling coffee types, and how does their popularity vary regionally?
 - How does sales performance vary between different roast types (e.g., light, medium, dark)?
 - How does customer purchasing behavior differ based on coffee size and membership status?
-
+## Dashboard Components
+![Index](https://github.com/Watcharapollll/Data-Anlyst-Portfolio/blob/main/Coffee%20Sales%20Analysis/DashboardCoffeeSales.jpg)
 ## Key Steps 
 ### 1. Data Import and Cleaning
 * **Import Sales Data:** Retrieved sales data from a CSV file.
@@ -38,8 +39,6 @@ This project utilized Excel functionalities to create a data analysis dashboard 
 ### 4. Pivot Table and Chart Creation
 * Created pivot tables to summarize and aggregate sales data by product, category, region, salesperson, and time periods.
 * Developed various types of charts (bar graphs, line charts, pie charts) to visually represent trends and insights extracted from pivot tables.
-
-## Dashboard Components
 
 ## Conclusion
 This project effectively showcased the capabilities of Excel for data analysis and dashboard creation. By leveraging functions like XLOOKUP, VLOOKUP, INDEX/MATCH, pivot tables, and charts, actionable insights were derived from raw sales data. This experience serves as a practical demonstration of Excel skills applicable to real-world data analysis scenarios.
