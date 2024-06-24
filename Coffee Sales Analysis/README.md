@@ -31,11 +31,11 @@ This project utilized Excel functionalities to create a data analysis dashboard 
 ![Index](https://github.com/Watcharapollll/Data-Anlyst-Portfolio/assets/155180478/d158a0cd-f43f-40f7-b929-aa315863194b)
 * **Creating New Columns:**Implementing Nested IF Statements for Coffee Full Names
 ![nest if](https://github.com/Watcharapollll/Data-Anlyst-Portfolio/assets/155180478/065bbdc5-e6c3-4dee-a4b5-af7118a39c5e)
-### 2. Pivot Table and Chart Creation
+### 2. Dashboard Design
+* Designed a comprehensive dashboard layout in Excel to integrate charts, and pivot tables on a single sheet.
+### 3. Pivot Table and Chart Creation
 * Created pivot tables to summarize and aggregate sales data by product, category, region, salesperson, and time periods.
 * Developed various types of charts (bar graphs, line charts, pie charts) to visually represent trends and insights extracted from pivot tables.
-### 3. Dashboard Design
-* Designed a comprehensive dashboard layout in Excel to integrate charts, and pivot tables on a single sheet.
 ### 4. Pivot Table and Chart Creation
 * Created pivot tables to summarize and aggregate sales data by product, category, region, salesperson, and time periods.
 * Developed various types of charts (bar graphs, line charts, pie charts) to visually represent trends and insights extracted from pivot tables.
