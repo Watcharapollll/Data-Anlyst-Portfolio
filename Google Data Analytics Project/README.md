@@ -2,9 +2,13 @@
 ## Tools 
 * R Language
 * Tableau
+## Over View
+This project leverages R for data cleaning and Tableau for data visualization to understand the usage patterns of Cyclistic bikes by annual members and casual riders. By examining the differences in usage between these two groups, the analysis aims to identify strategies to convert casual riders to annual members. The steps involved include data cleaning, merging datasets, and creating new variables to derive additional insights. Visualizations created in Tableau help to illustrate ride trends and user behaviors, offering actionable insights for strategic decision-making.
+## Objective 
+Analyze how annual members and casual riders use Cyclistic bikes differently and identify strategies to convert casual riders to annual members.
 ## Business Question
-How do annual members and casual riders use Cyclistic bikes differently?
-How to convert casual riders to annual members?
+- How do annual members and casual riders use Cyclistic bikes differently?
+- How to convert casual riders to annual members?
 # Steps
 ## Data Cleaning
 Assessing Data Quality: Examine the data to identify any issues or inconsistencies.
