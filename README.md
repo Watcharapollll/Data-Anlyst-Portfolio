@@ -1,5 +1,7 @@
 # Data-Anlyst-Portfolio
 
+<img src="https://github.com/Watcharapollll/Data-Anlyst-Portfolio/assets/155180478/f71137f7-6bde-4e6f-8e12-f513c094a183" alt="image" width="10%" height="auto">
+
 ## About Me
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Hi, I'm Watcharapol Pajun! I have a technical background and hold a Bachelor of Engineering degree in Industrial Engineering from Thammasat University. I am currently transitioning into the field of data analysis after completing my education in 2023. My academic journey and practical experience have equipped me with a robust skill set in data processing, statistical analysis, and problem-solving.
 
