@@ -17,7 +17,7 @@ I have undertaken personal projects that demonstrate my analytical and problem-s
 Explore Full Report: [ Brazilian E-Commerce Analysis Report](https://github.com/Watcharapollll/Data-Anlyst-Portfolio/tree/main/Brazilian%20E-Commerce%20Public)
 
 ### [Bike Sharing Analysis](https://github.com/Watcharapollll/Data-Anlyst-Portfolio/tree/main/Google%20Data%20Analytics%20Project)
-****Tools:**** R Language, Teablue
+****Tools:**** R Language, Teabluea
 
 **Objective:** Analyze how annual members and casual riders use Cyclistic bikes differently and identify strategies to convert casual riders to annual members.
 
@@ -30,15 +30,15 @@ Explore Full Report: [ Bike Sharing Analysis Report](https://github.com/Watchara
 **Objective:** Analyze coffee sales trends, market performance, and customer behavior to identify top markets, popular products, and opportunities for growth. Develop strategies to enhance sales based on data-driven insights.
 
 **Project Description:** This project leverages Microsoft Excel to analyze and visualize coffee sales data, providing insights into sales trends, market performance, and customer behavior. By employing advanced Excel functions and pivot tables, a comprehensive dashboard was created to facilitate data-driven decision-making.
-Explore Full Report: [Coffee Sales Analysis](https://github.com/Watcharapollll/Data-Anlyst-Portfolio/tree/main/Coffee%20Sales%20Analysis)
+Explore Full Report: [Coffee Sales Analysis Report](https://github.com/Watcharapollll/Data-Anlyst-Portfolio/tree/main/Coffee%20Sales%20Analysis)
 
-### [Coffee Sales Analysis](https://github.com/Watcharapollll/Data-Anlyst-Portfolio/tree/main/Music%20Industry%20Analysis)
+### [Music Industry Analysis](https://github.com/Watcharapollll/Data-Anlyst-Portfolio/tree/main/Music%20Industry%20Analysis)
 ****Tools:**** MsSQL Server, Microsoft Power BI
 
 **Objective:** In this project, I conducted a comprehensive analysis of a music dataset to assist in organizing an optimal music festival. The analysis focused on identifying the best location, selecting performing artists, determining the ideal timing, and suggesting a theme based on data-driven insights.
 
 **Project Description:** This project aims to enhance my data analytics skills by analyzing a music dataset. It focuses on identifying the best artist, location, and date for a music festival. By applying data analysis techniques and using analytical tools like SQL and Power BI, I aim to gain practical experience in data-driven decision-making for real-world applications.
-Explore Full Report: [Coffee Sales Analysis](https://github.com/Watcharapollll/Data-Anlyst-Portfolio/tree/main/Music%20Industry%20Analysis)
+Explore Full Report: [Music Analysis Report](https://github.com/Watcharapollll/Data-Anlyst-Portfolio/tree/main/Music%20Industry%20Analysis)
 
 ## certifications
 [Google Data Analytics by Google on Coursera. Certificate earned at March 19, 2024](https://coursera.org/share/b9efadc654ad6cae8e02cc75f0c00e7d)
