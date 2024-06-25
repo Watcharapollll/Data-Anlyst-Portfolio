@@ -11,11 +11,11 @@
 I have undertaken personal projects that demonstrate my analytical and problem-solving abilities.
 
 ### [Brazilian E-Commerce Analysis](https://github.com/Watcharapollll/Data-Anlyst-Portfolio/tree/main/Brazilian%20E-Commerce%20Public)
-****Tools:**** SQL (BigQuery), Google Looker Studio\
+****Tools:**** SQL (BigQuery), Google Looker Studio
 
 **Objective:** The objective of this study is to undertake a personal project focused on SQL (BigQuery) to clean and query the dataset, utilizing subqueries and data relationships. Additionally, the data will be visualized using Google Data Studio to create an interactive and insightful dashboard.
 
-**Project Description:** This repository contains an interactive dashboard for analyzing the Brazilian e-commerce dataset provided by Olist. The dashboard aims to provide key insights into the sales performance, customer distribution, and product category trends on the platform. It serves as a tool for stakeholders to make data-driven decisions and improve their understanding of the e-commerce landscape.
+**Project Description:** This repository contains an interactive dashboard for analyzing the Brazilian e-commerce dataset provided by Olist. The dashboard aims to provide key insights into the sales performance, customer distribution, and product category trends on the platform. It serves as a tool for stakeholders to make data-driven decisions and improve their understanding of the e-commerce landscape.\
 Explore Full Report: [ Brazilian E-Commerce Analysis Report](https://github.com/Watcharapollll/Data-Anlyst-Portfolio/tree/main/Brazilian%20E-Commerce%20Public)
 
 ### [Bike Sharing Analysis](https://github.com/Watcharapollll/Data-Anlyst-Portfolio/tree/main/Google%20Data%20Analytics%20Project)
@@ -23,7 +23,7 @@ Explore Full Report: [ Brazilian E-Commerce Analysis Report](https://github.com/
 
 **Objective:** Analyze how annual members and casual riders use Cyclistic bikes differently and identify strategies to convert casual riders to annual members.
 
-**Project Description:** This project leverages R for data cleaning and Tableau for data visualization to understand the usage patterns of Cyclistic bikes by annual members and casual riders. By examining the differences in usage between these two groups, the analysis aims to identify strategies to convert casual riders to annual members. The steps involved include data cleaning, merging datasets, and creating new variables to derive additional insights. Visualizations created in Tableau help to illustrate ride trends and user behaviors, offering actionable insights for strategic decision-making.
+**Project Description:** This project leverages R for data cleaning and Tableau for data visualization to understand the usage patterns of Cyclistic bikes by annual members and casual riders. By examining the differences in usage between these two groups, the analysis aims to identify strategies to convert casual riders to annual members. The steps involved include data cleaning, merging datasets, and creating new variables to derive additional insights. Visualizations created in Tableau help to illustrate ride trends and user behaviors, offering actionable insights for strategic decision-making.\
 Explore Full Report: [ Bike Sharing Analysis Report](https://github.com/Watcharapollll/Data-Anlyst-Portfolio/tree/main/Google%20Data%20Analytics%20Project)
 
 ### [Coffee Sales Analysis](https://github.com/Watcharapollll/Data-Anlyst-Portfolio/tree/main/Coffee%20Sales%20Analysis)
@@ -31,7 +31,7 @@ Explore Full Report: [ Bike Sharing Analysis Report](https://github.com/Watchara
 
 **Objective:** Analyze coffee sales trends, market performance, and customer behavior to identify top markets, popular products, and opportunities for growth. Develop strategies to enhance sales based on data-driven insights.
 
-**Project Description:** This project leverages Microsoft Excel to analyze and visualize coffee sales data, providing insights into sales trends, market performance, and customer behavior. By employing advanced Excel functions and pivot tables, a comprehensive dashboard was created to facilitate data-driven decision-making.
+**Project Description:** This project leverages Microsoft Excel to analyze and visualize coffee sales data, providing insights into sales trends, market performance, and customer behavior. By employing advanced Excel functions and pivot tables, a comprehensive dashboard was created to facilitate data-driven decision-making.\
 Explore Full Report: [Coffee Sales Analysis Report](https://github.com/Watcharapollll/Data-Anlyst-Portfolio/tree/main/Coffee%20Sales%20Analysis)
 
 ### [Music Industry Analysis](https://github.com/Watcharapollll/Data-Anlyst-Portfolio/tree/main/Music%20Industry%20Analysis)
@@ -39,7 +39,7 @@ Explore Full Report: [Coffee Sales Analysis Report](https://github.com/Watcharap
 
 **Objective:** In this project, I conducted a comprehensive analysis of a music dataset to assist in organizing an optimal music festival. The analysis focused on identifying the best location, selecting performing artists, determining the ideal timing, and suggesting a theme based on data-driven insights.
 
-**Project Description:** This project aims to enhance my data analytics skills by analyzing a music dataset. It focuses on identifying the best artist, location, and date for a music festival. By applying data analysis techniques and using analytical tools like SQL and Power BI, I aim to gain practical experience in data-driven decision-making for real-world applications.
+**Project Description:** This project aims to enhance my data analytics skills by analyzing a music dataset. It focuses on identifying the best artist, location, and date for a music festival. By applying data analysis techniques and using analytical tools like SQL and Power BI, I aim to gain practical experience in data-driven decision-making for real-world applications.\
 Explore Full Report: [Music Analysis Report](https://github.com/Watcharapollll/Data-Anlyst-Portfolio/tree/main/Music%20Industry%20Analysis)
 
 ## certifications
