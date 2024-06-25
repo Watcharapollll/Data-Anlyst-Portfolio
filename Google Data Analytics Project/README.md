@@ -16,3 +16,4 @@ Explore my work [Data Processing.R](https://github.com/Watcharapollll/Data-Anlys
 ![Dashboard](https://github.com/Watcharapollll/Data-Anlyst-Portfolio/blob/main/Google%20Data%20Analytics%20Project/Dashboard.png)
 Divvy Trip Trends Analysis: Analyze the trends in Divvy bike trips to identify patterns and insights.
 Visualization: Create charts and graphs to visually represent the data and the identified trends with R.
+![Dashboard](https://github.com/Watcharapollll/Data-Anlyst-Portfolio/assets/155180478/9f5deec8-27e8-48db-b84a-3990c8d6b767)
