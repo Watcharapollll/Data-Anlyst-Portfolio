@@ -29,6 +29,8 @@ This project utilized Excel functionalities to create a data analysis dashboard 
     * Formatting inconsistencies through formatting and validation.
 * **Data Aggregation:** Applied XLOOKUP, VLOOKUP, Index, and Match functions for advanced data lookups and manipulations.
 ![Index](https://github.com/Watcharapollll/Data-Anlyst-Portfolio/assets/155180478/d158a0cd-f43f-40f7-b929-aa315863194b)
+![1](https://github.com/Watcharapollll/Data-Anlyst-Portfolio/assets/155180478/5998c7e4-51e3-48d8-9cb9-ba0d1f8d28f1)
+![e2](https://github.com/Watcharapollll/Data-Anlyst-Portfolio/assets/155180478/67e005fb-7555-412a-bb0d-7dfc1adc8c08)
 * **Creating New Columns:**Implementing Nested IF Statements for Coffee Full Names
 ![nest if](https://github.com/Watcharapollll/Data-Anlyst-Portfolio/assets/155180478/065bbdc5-e6c3-4dee-a4b5-af7118a39c5e)
 ### 2. Dashboard Design
