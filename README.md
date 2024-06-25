@@ -1,4 +1,4 @@
-# Data-Anlyst-Portfolio
+# Watcharapol Pajun Portfolio
 
 <img src="https://github.com/Watcharapollll/Data-Anlyst-Portfolio/assets/155180478/f71137f7-6bde-4e6f-8e12-f513c094a183" alt="image" width="10%" height="auto">
 
