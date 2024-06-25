@@ -17,7 +17,7 @@ I have undertaken personal projects that demonstrate my analytical and problem-s
 Explore Full Report: [ Brazilian E-Commerce Analysis Report](https://github.com/Watcharapollll/Data-Anlyst-Portfolio/tree/main/Brazilian%20E-Commerce%20Public)
 
 ### [Bike Sharing Analysis](https://github.com/Watcharapollll/Data-Anlyst-Portfolio/tree/main/Google%20Data%20Analytics%20Project)
-****Tools:**** R Language, Teabluea
+****Tools:**** R Language, Tabluea
 
 **Objective:** Analyze how annual members and casual riders use Cyclistic bikes differently and identify strategies to convert casual riders to annual members.
 
