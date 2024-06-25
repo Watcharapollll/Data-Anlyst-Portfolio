@@ -3,10 +3,10 @@
 ## Tools
 * MsSQL Server
 * Microsoft Power BI
-## Introduction
-In this project, I conducted a comprehensive analysis of a music dataset to assist in organizing an optimal music festival. The analysis focused on identifying the best location, selecting performing artists, determining the ideal timing, and suggesting a theme based on data-driven insights.
-## Objective
+## Overview
 This project aims to enhance my data analytics skills by analyzing a music dataset. It focuses on identifying the best artist, location, and date for a music festival. By applying data analysis techniques and using analytical tools like SQL and Power BI, I aim to gain practical experience in data-driven decision-making for real-world applications.
+## Objective
+In this project, I conducted a comprehensive analysis of a music dataset to assist in organizing an optimal music festival. The analysis focused on identifying the best location, selecting performing artists, determining the ideal timing, and suggesting a theme based on data-driven insights.
 ## Dataset Description
 [The dataset](https://github.com/Watcharapollll/Data-Anlyst-Portfolio/blob/main/Music%20Industry%20Analysis/music%20store%20data.zip) used for this analysis includes information on music tracks, albums, artists, genres, invoices, and customer transactions. It was stored and managed using Microsoft SQL Server Management Studio for data querying and preparation.
 ## Business Questions
