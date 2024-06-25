@@ -40,7 +40,7 @@ Explore Full Report: [Coffee Sales Analysis](https://github.com/Watcharapollll/D
 **Project Description:** This project aims to enhance my data analytics skills by analyzing a music dataset. It focuses on identifying the best artist, location, and date for a music festival. By applying data analysis techniques and using analytical tools like SQL and Power BI, I aim to gain practical experience in data-driven decision-making for real-world applications.
 Explore Full Report: [Coffee Sales Analysis](https://github.com/Watcharapollll/Data-Anlyst-Portfolio/tree/main/Music%20Industry%20Analysis)
 
-## Certification
+## certifications
 [Google Data Analytics by Google on Coursera. Certificate earned at March 19, 2024](https://coursera.org/share/b9efadc654ad6cae8e02cc75f0c00e7d)
 - Gain an immersive understanding of the practices and processes used by a junior or associate data analyst in their day-to-day job
 - Learn key analytical skills (data cleaning, analysis, & visualization) and tools (spreadsheets, SQL, R programming, Tableau) 
